@@ -1,0 +1,14 @@
+*/.project
+.project
+.settings
+*/build/**/*
+.classpath
+*/.classpath
+*/.settings/*
+*/gwt-unitCache
+**/generated*
+*.class
+IDeskApp/war/WEB-INF/classes
+IDeskApp/war/WEB-INF/lib
+IDeskApp/war/ideskapp/*.gwt.rpc
+IDeskApp/war/ideskapp/ideskapp.nocache.js
